@@ -29,4 +29,4 @@ Block quote:
 Files/URLs: [This is a link](http://www.google.com)
 
 
-Images: ![Elephant image](elephant.jpg)
+Images: ![](elephant.jpg)
