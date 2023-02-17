@@ -13,19 +13,20 @@ I'm going to do a git add , git commit and then a git push
 
 
 
-**: **word**
+**Bold Font**
+*Italic*
 
-*: *word*
-
-Line Break:
 ---
 
-
-Text/Code Snippets:
+Text/Code Snippet
 `word`
 
-Block Quotes: 
-> "Quote"
+Block quote:
+> "This is a block quote" 
 
-Files/URLs: []()
+
+
+Files/URLs: [This is a link](http://www.google.com)
+
+
 Images: ![]()
